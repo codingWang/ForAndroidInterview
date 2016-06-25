@@ -5,7 +5,7 @@
 
 ## [Android](https://github.com/fanrunqi/ForAndroidInterview/tree/master/android)
 
-* [全面了解Activity](https://github.com/fanrunqi/ForAndroidInterview/blob/master/android/%E5%85%A8%E9%9D%A2%E4%BA%86%E8%A7%A3Activity.md)
+* [全面了解Activity](https://github.com/Mr-YangCheng/ForAndroidInterview/blob/master/android/%E5%85%A8%E9%9D%A2%E4%BA%86%E8%A7%A3Activity.md)
 
 * [Service全面总结](https://github.com/fanrunqi/ForAndroidInterview/blob/master/android/Service%E5%85%A8%E9%9D%A2%E6%80%BB%E7%BB%93.md)
 
